@@ -1,0 +1,2407 @@
+{
+  "dhcMatches": [
+    {
+      "id": 7702,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "RC BADALONA",
+      "score": "22-17",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7704,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "BUC",
+      "score": "10-38",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7706,
+      "homeTeam": "RC BADALONA/CR ALELLA",
+      "awayTeam": "BUC B",
+      "score": "32-0",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7711,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "RC SITGES",
+      "score": "12-31",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7715,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "24-7",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7717,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "14-17",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7727,
+      "homeTeam": "RC SITGES B",
+      "awayTeam": "RC SITGES C",
+      "score": "17-24",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7738,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7739,
+      "homeTeam": "BUC",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "21-09-2025"
+    },
+    {
+      "id": 7741,
+      "homeTeam": "BUC",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7749,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "BUC",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7754,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7757,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "RC SITGES VERD",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7771,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "RC SITGES/RC L'HOSPITALET",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7772,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7773,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "RC SITGES VERD",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7774,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "RC SITGES VERD",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7775,
+      "homeTeam": "CR TARRAGONA/SEL VNG",
+      "awayTeam": "RC L'HOSPITALET",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7777,
+      "homeTeam": "CR TARRAGONA/SEL",
+      "awayTeam": "HOSPITALET/VIRC/UR SUD",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7778,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "RC L'HOSPITALET",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7784,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "BUC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7787,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7791,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "BUC B",
+      "score": "48-10",
+      "date": "04-10-2025"
+    },
+    {
+      "id": 8561,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "BUC",
+      "score": "55-14",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8566,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CNPN",
+      "score": "21-0",
+      "date": "08-03-2026"
+    },
+    {
+      "id": 8568,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "44-12",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8574,
+      "homeTeam": "RC SITGES VERD",
+      "awayTeam": "GÒTICS RC",
+      "score": "24-5",
+      "date": "08-03-2026"
+    },
+    {
+      "id": 8577,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "FÉNIX",
+      "score": "48-10",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8593,
+      "homeTeam": "CR TARRAGONA B",
+      "awayTeam": "RC SITGES B",
+      "score": "15-78",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8600,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "CNPN",
+      "score": "24-11",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8604,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BUC B/SENGLARS",
+      "score": "17-5",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8605,
+      "homeTeam": "CR TARRAGONA/SEL VNG",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "50-0",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8608,
+      "homeTeam": "CNPN",
+      "awayTeam": "FÉNIX",
+      "score": "27-22",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8609,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "33-34",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8615,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "RC SITGES",
+      "score": "24-34",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8616,
+      "homeTeam": "BUC",
+      "awayTeam": "FÉNIX",
+      "score": "15-36",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8626,
+      "homeTeam": "FÉNIX",
+      "awayTeam": "CR TARRAGONA",
+      "score": "24-47",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8633,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BUC B",
+      "score": "50-6",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8650,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "GÒTICS RC",
+      "score": "38-29",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8669,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "RC SITGES VERD",
+      "score": "109-7",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8680,
+      "homeTeam": "CR SANT CUGAT S17",
+      "awayTeam": "FÉNIX S17",
+      "score": "19-7",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8683,
+      "homeTeam": "CNPN B",
+      "awayTeam": "BUC B",
+      "score": "16-5",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8693,
+      "homeTeam": "CR TARRAGONA/SEL",
+      "awayTeam": "FÉNIX",
+      "score": "17-31",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8700,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "FÉNIX",
+      "score": "70-15",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8716,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "5-5",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8720,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "HOSPITALET/VIRC/UR SUD",
+      "score": "25-11",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8726,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "FÉNIX",
+      "score": "47-7",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8728,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "28-21",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8733,
+      "homeTeam": "CR SANT CUGAT S17",
+      "awayTeam": "FÉNIX S17",
+      "score": "33-12",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8751,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "CNPN",
+      "score": "8-13",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8756,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "RC CORNELLÀ",
+      "score": "26-21",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8765,
+      "homeTeam": "CNPN",
+      "awayTeam": "GÒTICS RC",
+      "score": "27-5",
+      "date": "18-04-2026"
+    }
+  ],
+  "allFound": [
+    {
+      "id": 7700,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "48-5",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7701,
+      "homeTeam": "CATALUNYA S18",
+      "awayTeam": "BUC B",
+      "score": "54-0",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7702,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "RC BADALONA",
+      "score": "22-17",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7703,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "BUC B",
+      "score": "19-7",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7704,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "BUC",
+      "score": "10-38",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7705,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "CATALUNYA S18",
+      "score": "14-12",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7706,
+      "homeTeam": "RC BADALONA/CR ALELLA",
+      "awayTeam": "BUC B",
+      "score": "32-0",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7707,
+      "homeTeam": "CATALUNYA S18",
+      "awayTeam": "RC SITGES",
+      "score": "64-0",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7708,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "0-19",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7709,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "BUC",
+      "score": "14-26",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7710,
+      "homeTeam": "GEIEG",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "0-45",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7711,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "RC SITGES",
+      "score": "12-31",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7712,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "0-33",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7713,
+      "homeTeam": "GEIEG",
+      "awayTeam": "RC SITGES",
+      "score": "12-17",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7714,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "28-19",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7715,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "24-7",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7716,
+      "homeTeam": "GEIEG",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "12-19",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7717,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "14-17",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7718,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "RC SITGES",
+      "score": "10-19",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7719,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "GEIEG",
+      "score": "38-7",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7720,
+      "homeTeam": "BARÇA RUGBY B",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "5-31",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7721,
+      "homeTeam": "ANOIA/CARBONERS",
+      "awayTeam": "CR TARRAGONA",
+      "score": "5-14",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7722,
+      "homeTeam": "RC SITGES C",
+      "awayTeam": "CE INEF LLEIDA B",
+      "score": "0-39",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7723,
+      "homeTeam": "RC SITGES B",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "12-24",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7724,
+      "homeTeam": "ANOIA/CARBONERS",
+      "awayTeam": "RC SITGES C",
+      "score": "19-24",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7725,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CE INEF LLEIDA B",
+      "score": "12-25",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7726,
+      "homeTeam": "RC SITGES B",
+      "awayTeam": "BARÇA RUGBY B",
+      "score": "12-27",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7727,
+      "homeTeam": "RC SITGES B",
+      "awayTeam": "RC SITGES C",
+      "score": "17-24",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7728,
+      "homeTeam": "BARÇA RUGBY B",
+      "awayTeam": "CR TARRAGONA",
+      "score": "31-15",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7729,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CE INEF LLEIDA B",
+      "score": "12-17",
+      "date": "31-05-2025"
+    },
+    {
+      "id": 7730,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "VPC ANDORRA",
+      "score": "0-0",
+      "date": "06-09-2025"
+    },
+    {
+      "id": 7732,
+      "homeTeam": "UES",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "33-24",
+      "date": "13-09-2025"
+    },
+    {
+      "id": 7733,
+      "homeTeam": "BUC",
+      "awayTeam": "VPC ANDORRA",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7735,
+      "homeTeam": "CEU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7737,
+      "homeTeam": "UES S23",
+      "awayTeam": "CR SANT CUGAT S23",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7738,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7739,
+      "homeTeam": "BUC",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "21-09-2025"
+    },
+    {
+      "id": 7741,
+      "homeTeam": "BUC",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7742,
+      "homeTeam": "UES B",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "0-0",
+      "date": "21-09-2025"
+    },
+    {
+      "id": 7743,
+      "homeTeam": "UES",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "0-0",
+      "date": "21-09-2025"
+    },
+    {
+      "id": 7744,
+      "homeTeam": "CEU",
+      "awayTeam": "CAT CENTRAL",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7745,
+      "homeTeam": "CEU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7746,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "CR TARRAGONA",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7747,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7748,
+      "homeTeam": "BUC",
+      "awayTeam": "CRUC",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7749,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "BUC",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7750,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CRUC",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7752,
+      "homeTeam": "UES",
+      "awayTeam": "RC SITGES",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7753,
+      "homeTeam": "UES B",
+      "awayTeam": "RC SITGES B",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7754,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7755,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "UES A",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7756,
+      "homeTeam": "CR CARBONERS/ESPARREGUERA",
+      "awayTeam": "CRUC",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7757,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "RC SITGES VERD",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7759,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "0-0",
+      "date": "20-09-2025"
+    },
+    {
+      "id": 7760,
+      "homeTeam": "UES",
+      "awayTeam": "EQUIP AMISTÓS S16",
+      "score": "12-34",
+      "date": "25-09-2025"
+    },
+    {
+      "id": 7761,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-0",
+      "date": "26-09-2025"
+    },
+    {
+      "id": 7762,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "CRUC",
+      "score": "17-38",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7763,
+      "homeTeam": "BACALLE",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-0",
+      "date": "28-09-2025"
+    },
+    {
+      "id": 7764,
+      "homeTeam": "UES B",
+      "awayTeam": "URS/QBH",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7765,
+      "homeTeam": "UES",
+      "awayTeam": "BUC",
+      "score": "74-10",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7766,
+      "homeTeam": "CNPN",
+      "awayTeam": "UES A",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7767,
+      "homeTeam": "UES B",
+      "awayTeam": "URS",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7768,
+      "homeTeam": "ALBACA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-0",
+      "date": "28-09-2025"
+    },
+    {
+      "id": 7769,
+      "homeTeam": "RC ALT EMPORDÀ",
+      "awayTeam": "CR CARBONERS",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7770,
+      "homeTeam": "BUC",
+      "awayTeam": "UES",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7771,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "RC SITGES/RC L'HOSPITALET",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7772,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7773,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "RC SITGES VERD",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7774,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "RC SITGES VERD",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7775,
+      "homeTeam": "CR TARRAGONA/SEL VNG",
+      "awayTeam": "RC L'HOSPITALET",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7776,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "CRUC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7777,
+      "homeTeam": "CR TARRAGONA/SEL",
+      "awayTeam": "HOSPITALET/VIRC/UR SUD",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7778,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "RC L'HOSPITALET",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7779,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "BAD/ALE/CAB",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7780,
+      "homeTeam": "TÀRREGA RUGBI",
+      "awayTeam": "CR BERGUEDÀ",
+      "score": "7-24",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7781,
+      "homeTeam": "SENGEIEG",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7782,
+      "homeTeam": "UES B",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7783,
+      "homeTeam": "CNPN",
+      "awayTeam": "URS/QBH",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7784,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "BUC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7785,
+      "homeTeam": "UES",
+      "awayTeam": "BUC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7786,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "UES",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7787,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-0",
+      "date": "27-09-2025"
+    },
+    {
+      "id": 7788,
+      "homeTeam": "CNPN B",
+      "awayTeam": "QUÍMIC ER",
+      "score": "3-23",
+      "date": "04-10-2025"
+    },
+    {
+      "id": 7789,
+      "homeTeam": "CEU",
+      "awayTeam": "CRUC",
+      "score": "28-21",
+      "date": "04-10-2025"
+    },
+    {
+      "id": 7790,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "33-13",
+      "date": "04-10-2025"
+    },
+    {
+      "id": 7791,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "BUC B",
+      "score": "48-10",
+      "date": "04-10-2025"
+    },
+    {
+      "id": 8560,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "SENGEIEG",
+      "score": "68-5",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8561,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "BUC",
+      "score": "55-14",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8562,
+      "homeTeam": "CRUC",
+      "awayTeam": "RC L'HOSPITALET",
+      "score": "5-29",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8563,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "UES",
+      "score": "17-14",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8564,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "UES B",
+      "score": "0-38",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8565,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "53-39",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8566,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CNPN",
+      "score": "21-0",
+      "date": "08-03-2026"
+    },
+    {
+      "id": 8567,
+      "homeTeam": "SENGEIEG VERMELL",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "7-58",
+      "date": "08-03-2026"
+    },
+    {
+      "id": 8568,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "44-12",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8569,
+      "homeTeam": "BACALLE",
+      "awayTeam": "CR SPARTANS",
+      "score": "22-31",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8570,
+      "homeTeam": "CEU",
+      "awayTeam": "URS/QBH",
+      "score": "34-21",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8571,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "SENGEIEG BLANC",
+      "score": "29-35",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8572,
+      "homeTeam": "RC SITGES B",
+      "awayTeam": "CAT CENTRAL",
+      "score": "36-51",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8573,
+      "homeTeam": "UES A",
+      "awayTeam": "CR SANT CUGAT",
+      "score": "10-48",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8574,
+      "homeTeam": "RC SITGES VERD",
+      "awayTeam": "GÒTICS RC",
+      "score": "24-5",
+      "date": "08-03-2026"
+    },
+    {
+      "id": 8575,
+      "homeTeam": "CNPN",
+      "awayTeam": "CABALE",
+      "score": "5-69",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8576,
+      "homeTeam": "CRUC",
+      "awayTeam": "CR CARBONERS/ESPARREGUERA",
+      "score": "17-17",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8577,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "FÉNIX",
+      "score": "48-10",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8578,
+      "homeTeam": "SENGEIEG",
+      "awayTeam": "CR SPARTANS",
+      "score": "12-34",
+      "date": "08-03-2026"
+    },
+    {
+      "id": 8579,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "74-10",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8580,
+      "homeTeam": "CEU",
+      "awayTeam": "ALBACA",
+      "score": "66-5",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8581,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "QUÍMIC ER",
+      "score": "20-20",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8582,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "VPC ANDORRA",
+      "score": "10-45",
+      "date": "07-03-2026"
+    },
+    {
+      "id": 8583,
+      "homeTeam": "CRUC",
+      "awayTeam": "CNPN B",
+      "score": "28-10",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8584,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "38-23",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8585,
+      "homeTeam": "BUC B",
+      "awayTeam": "CEU",
+      "score": "3-24",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8586,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "24-67",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8588,
+      "homeTeam": "CR SPARTANS",
+      "awayTeam": "RC BADALONA",
+      "score": "30-26",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8589,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "VPC ANDORRA B",
+      "score": "24-21",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8590,
+      "homeTeam": "CR SANT CUGAT XV",
+      "awayTeam": "CR INEF BCN",
+      "score": "33-0",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8591,
+      "homeTeam": "CR CARBONERS",
+      "awayTeam": "RINYOLES RC",
+      "score": "14-37",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8592,
+      "homeTeam": "BCN LIONS/BEGUES",
+      "awayTeam": "OSONA RC",
+      "score": "30-27",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8593,
+      "homeTeam": "CR TARRAGONA B",
+      "awayTeam": "RC SITGES B",
+      "score": "15-78",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8594,
+      "homeTeam": "CR ALELLA",
+      "awayTeam": "RC ALT EMPORDÀ",
+      "score": "21-14",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8595,
+      "homeTeam": "LBCC BARBARIANS VILADECANS",
+      "awayTeam": "MARTORELL/ESPARREGUERA",
+      "score": "29-24",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8596,
+      "homeTeam": "CR CARBONERS B",
+      "awayTeam": "PANTERES GROGUES",
+      "score": "29-12",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8597,
+      "homeTeam": "CR BERGUEDÀ",
+      "awayTeam": "CEU B",
+      "score": "17-33",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8598,
+      "homeTeam": "QUÍMIC ER B",
+      "awayTeam": "MANRESA RC",
+      "score": "20-38",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8599,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "CEFA UNIZAR",
+      "score": "17-17",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8600,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "CNPN",
+      "score": "24-11",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8601,
+      "homeTeam": "FILADORES",
+      "awayTeam": "RC SITGES/RC L'HOSPITALET",
+      "score": "19-0",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8602,
+      "homeTeam": "CEU",
+      "awayTeam": "CR SPARTANS",
+      "score": "38-34",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8603,
+      "homeTeam": "RC BADALONA",
+      "awayTeam": "CAT CENTRAL",
+      "score": "53-35",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8604,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BUC B/SENGLARS",
+      "score": "17-5",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8605,
+      "homeTeam": "CR TARRAGONA/SEL VNG",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "50-0",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8606,
+      "homeTeam": "CR TARRAGONA/SEL",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "12-29",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8607,
+      "homeTeam": "SENGEIEG",
+      "awayTeam": "UES B",
+      "score": "0-50",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8608,
+      "homeTeam": "CNPN",
+      "awayTeam": "FÉNIX",
+      "score": "27-22",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8609,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "33-34",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8610,
+      "homeTeam": "HOSPITALET/VIRC/UR SUD",
+      "awayTeam": "BAD/ALE/CAB",
+      "score": "50-19",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8611,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CAT CENTRAL",
+      "score": "29-15",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8612,
+      "homeTeam": "CRUC",
+      "awayTeam": "VPC ANDORRA",
+      "score": "10-5",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8613,
+      "homeTeam": "CR SPARTANS",
+      "awayTeam": "CEU",
+      "score": "22-12",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8614,
+      "homeTeam": "UES",
+      "awayTeam": "CRUC",
+      "score": "86-12",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8615,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "RC SITGES",
+      "score": "24-34",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8616,
+      "homeTeam": "BUC",
+      "awayTeam": "FÉNIX",
+      "score": "15-36",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8617,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "UES B",
+      "score": "20-5",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8618,
+      "homeTeam": "CR TARRAGONA/SEL VNG",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "58-26",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8619,
+      "homeTeam": "BACALLE",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "10-45",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8620,
+      "homeTeam": "CR SPARTANS",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "57-12",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8621,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "SENGEIEG VERMELL",
+      "score": "70-19",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8622,
+      "homeTeam": "URS/QBH",
+      "awayTeam": "FÉNIX B",
+      "score": "40-17",
+      "date": "15-03-2026"
+    },
+    {
+      "id": 8623,
+      "homeTeam": "CNPN",
+      "awayTeam": "VPC ANDORRA",
+      "score": "5-37",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8624,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "SENGEIEG",
+      "score": "24-46",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8625,
+      "homeTeam": "CR SPARTANS",
+      "awayTeam": "BUC/CORNELLÀ",
+      "score": "50-5",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8626,
+      "homeTeam": "FÉNIX",
+      "awayTeam": "CR TARRAGONA",
+      "score": "24-47",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8627,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "ALBACA",
+      "score": "61-30",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8628,
+      "homeTeam": "CEU",
+      "awayTeam": "UES B",
+      "score": "38-57",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8629,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "QUEBRANTA/UNIZAR",
+      "score": "21-0",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8630,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "CR TARRAGONA/SEL",
+      "score": "21-0",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8631,
+      "homeTeam": "RINYOLES RC",
+      "awayTeam": "QUÍMIC ER B",
+      "score": "21-0",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8632,
+      "homeTeam": "CNPN B",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "17-54",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8633,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BUC B",
+      "score": "50-6",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8634,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "27-32",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8635,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CRUC",
+      "score": "39-17",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8636,
+      "homeTeam": "RC SENGLARS",
+      "awayTeam": "CR SANT CUGAT XV",
+      "score": "20-14",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8637,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CR INEF BCN",
+      "score": "30-18",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8638,
+      "homeTeam": "VPC ANDORRA B",
+      "awayTeam": "CR SPARTANS",
+      "score": "41-12",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8639,
+      "homeTeam": "RC BADALONA",
+      "awayTeam": "GEIEG",
+      "score": "19-24",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8640,
+      "homeTeam": "MANRESA RC",
+      "awayTeam": "HOSPITALET B/CERVELLÓ",
+      "score": "65-5",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8641,
+      "homeTeam": "OSONA RC",
+      "awayTeam": "CR CARBONERS",
+      "score": "26-31",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8642,
+      "homeTeam": "MARTORELL/ESPARREGUERA",
+      "awayTeam": "CR TARRAGONA B",
+      "score": "10-50",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8643,
+      "homeTeam": "RC ALT EMPORDÀ",
+      "awayTeam": "LBCC BARBARIANS VILADECANS",
+      "score": "27-24",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8644,
+      "homeTeam": "RC SITGES B",
+      "awayTeam": "CR ALELLA",
+      "score": "31-29",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8645,
+      "homeTeam": "CEU B",
+      "awayTeam": "CR CARBONERS B",
+      "score": "50-0",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8646,
+      "homeTeam": "TÀRREGA RUGBI",
+      "awayTeam": "CR BERGUEDÀ",
+      "score": "14-10",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8647,
+      "homeTeam": "PANTERES GROGUES",
+      "awayTeam": "SEL VILANOVA",
+      "score": "0-68",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8648,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "ALGONTEC ZARAGOZA",
+      "score": "36-47",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8649,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "CEU",
+      "score": "12-37",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8650,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "GÒTICS RC",
+      "score": "38-29",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8651,
+      "homeTeam": "BUC B/SENGLARS",
+      "awayTeam": "COQUES/INEF BCN",
+      "score": "40-7",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8652,
+      "homeTeam": "VALKINYOLES",
+      "awayTeam": "QUÍMIC ER/UES B",
+      "score": "17-12",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8653,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "FÉNIX",
+      "score": "15-19",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8654,
+      "homeTeam": "CNPN",
+      "awayTeam": "SENGEIEG",
+      "score": "30-9",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8655,
+      "homeTeam": "UES B",
+      "awayTeam": "CRUC",
+      "score": "31-13",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8656,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "HOSPITALET/VIRC/UR SUD",
+      "score": "29-41",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8657,
+      "homeTeam": "BAD/ALE/CAB",
+      "awayTeam": "RC CORNELLÀ",
+      "score": "34-14",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8658,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "CR SPARTANS",
+      "score": "53-17",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8659,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-51",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8660,
+      "homeTeam": "UES B",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "71-34",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8661,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CNPN",
+      "score": "33-32",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8662,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "GÒTICS RC",
+      "score": "24-26",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8663,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "RC CORNELLÀ",
+      "score": "24-24",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8664,
+      "homeTeam": "SENGEIEG VERMELL",
+      "awayTeam": "CR SPARTANS",
+      "score": "15-54",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8665,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "BACALLE",
+      "score": "47-17",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8666,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "RC SITGES B",
+      "score": "22-88",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8667,
+      "homeTeam": "URS/QBH",
+      "awayTeam": "CAT CENTRAL",
+      "score": "68-36",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8668,
+      "homeTeam": "FÉNIX B",
+      "awayTeam": "SENGEIEG BLANC",
+      "score": "79-5",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8669,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "RC SITGES VERD",
+      "score": "109-7",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8670,
+      "homeTeam": "CABALE",
+      "awayTeam": "UES A",
+      "score": "41-26",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8671,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "CRUC",
+      "score": "109-10",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8672,
+      "homeTeam": "CR CARBONERS/ESPARREGUERA",
+      "awayTeam": "URS",
+      "score": "15-18",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8673,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CR SPARTANS",
+      "score": "12-51",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8674,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "94-19",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8675,
+      "homeTeam": "SENGEIEG",
+      "awayTeam": "CAT CENTRAL",
+      "score": "24-46",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8676,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "CEU",
+      "score": "31-43",
+      "date": "21-03-2026"
+    },
+    {
+      "id": 8677,
+      "homeTeam": "UES B",
+      "awayTeam": "QUÍMIC ER",
+      "score": "17-56",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8678,
+      "homeTeam": "ALBACA",
+      "awayTeam": "RC L'HOSPITALET",
+      "score": "5-46",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8679,
+      "homeTeam": "CEU",
+      "awayTeam": "QUEBRANTA/UNIZAR",
+      "score": "21-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8680,
+      "homeTeam": "CR SANT CUGAT S17",
+      "awayTeam": "FÉNIX S17",
+      "score": "19-7",
+      "date": "22-03-2026"
+    },
+    {
+      "id": 8681,
+      "homeTeam": "SEL VILANOVA",
+      "awayTeam": "TÀRREGA RUGBI",
+      "score": "21-0",
+      "date": "14-03-2026"
+    },
+    {
+      "id": 8682,
+      "homeTeam": "QUÍMIC ER/UES B",
+      "awayTeam": "CR SANT CUGAT B",
+      "score": "0-21",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8683,
+      "homeTeam": "CNPN B",
+      "awayTeam": "BUC B",
+      "score": "16-5",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8685,
+      "homeTeam": "RC ALT EMPORDÀ",
+      "awayTeam": "RC SITGES B",
+      "score": "8-64",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8686,
+      "homeTeam": "CR BERGUEDÀ",
+      "awayTeam": "PANTERES GROGUES",
+      "score": "79-10",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8687,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "VPC ANDORRA",
+      "score": "28-6",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8688,
+      "homeTeam": "CNPN",
+      "awayTeam": "CEFA UNIZAR",
+      "score": "37-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8689,
+      "homeTeam": "CEU",
+      "awayTeam": "RC SITGES/RC L'HOSPITALET",
+      "score": "39-24",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8690,
+      "homeTeam": "FILADORES",
+      "awayTeam": "CR SPARTANS",
+      "score": "24-19",
+      "date": "29-03-2026"
+    },
+    {
+      "id": 8691,
+      "homeTeam": "COQUES/INEF BCN",
+      "awayTeam": "VALKINYOLES",
+      "score": "17-27",
+      "date": "29-03-2026"
+    },
+    {
+      "id": 8692,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "SENGEIEG",
+      "score": "50-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8693,
+      "homeTeam": "CR TARRAGONA/SEL",
+      "awayTeam": "FÉNIX",
+      "score": "17-31",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8694,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "CNPN",
+      "score": "35-6",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8695,
+      "homeTeam": "BAD/ALE/CAB",
+      "awayTeam": "CEU",
+      "score": "31-53",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8696,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "EQUIP AMISTÒS",
+      "score": "0-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8697,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "CNPN",
+      "score": "21-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8698,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "CABALE",
+      "score": "34-17",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8699,
+      "homeTeam": "VPC ANDORRA",
+      "awayTeam": "URS",
+      "score": "86-17",
+      "date": "29-03-2026"
+    },
+    {
+      "id": 8700,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "FÉNIX",
+      "score": "70-15",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8701,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "0-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8702,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "EQ. AMISTÒS",
+      "score": "0-0",
+      "date": "28-03-2026"
+    },
+    {
+      "id": 8703,
+      "homeTeam": "GEIEG",
+      "awayTeam": "RC SENGLARS",
+      "score": "34-10",
+      "date": "07-04-2026"
+    },
+    {
+      "id": 8704,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CEU",
+      "score": "29-7",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8705,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "22-21",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8706,
+      "homeTeam": "CR SANT CUGAT XV",
+      "awayTeam": "VPC ANDORRA B",
+      "score": "57-14",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8707,
+      "homeTeam": "GEIEG",
+      "awayTeam": "CR INEF BCN",
+      "score": "22-55",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8708,
+      "homeTeam": "BCN LIONS/BEGUES",
+      "awayTeam": "CR CARBONERS",
+      "score": "19-29",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8709,
+      "homeTeam": "MANRESA RC",
+      "awayTeam": "RINYOLES RC",
+      "score": "36-37",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8710,
+      "homeTeam": "CR ALELLA",
+      "awayTeam": "RC SITGES B",
+      "score": "21-0",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8711,
+      "homeTeam": "RC ALT EMPORDÀ",
+      "awayTeam": "LBCC BARBARIANS VILADECANS",
+      "score": "33-32",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8712,
+      "homeTeam": "CEU B",
+      "awayTeam": "TÀRREGA RUGBI",
+      "score": "27-5",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8713,
+      "homeTeam": "SEL VILANOVA",
+      "awayTeam": "CR CARBONERS B",
+      "score": "37-10",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8714,
+      "homeTeam": "CEU",
+      "awayTeam": "FILADORES",
+      "score": "15-19",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8715,
+      "homeTeam": "QUÍMIC ER/UES B",
+      "awayTeam": "BUC B/SENGLARS",
+      "score": "32-31",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8716,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "5-5",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8717,
+      "homeTeam": "UES B",
+      "awayTeam": "CNPN",
+      "score": "53-8",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8718,
+      "homeTeam": "CRUC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "22-11",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8719,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "BAD/ALE/CAB",
+      "score": "41-36",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8720,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "HOSPITALET/VIRC/UR SUD",
+      "score": "25-11",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8721,
+      "homeTeam": "UES B",
+      "awayTeam": "VPC ANDORRA",
+      "score": "40-14",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8722,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "SENGEIEG VERMELL",
+      "score": "50-17",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8723,
+      "homeTeam": "RC CORNELLÀ",
+      "awayTeam": "CR SPARTANS",
+      "score": "34-24",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8724,
+      "homeTeam": "CEU",
+      "awayTeam": "FÉNIX B",
+      "score": "29-5",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8725,
+      "homeTeam": "URS/QBH",
+      "awayTeam": "RC SITGES B",
+      "score": "41-21",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8726,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "FÉNIX",
+      "score": "47-7",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8727,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "UES",
+      "score": "10-46",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8728,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CR TARRAGONA/SEL VNG",
+      "score": "28-21",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8729,
+      "homeTeam": "QUEBRANTA/UNIZAR",
+      "awayTeam": "UES B",
+      "score": "21-0",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8730,
+      "homeTeam": "FÉNIX S17",
+      "awayTeam": "VILABOIQERES S17",
+      "score": "19-19",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8731,
+      "homeTeam": "CE INEF LLEIDA S17",
+      "awayTeam": "CR SANT CUGAT S17",
+      "score": "7-31",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8732,
+      "homeTeam": "VILABOIQERES S17",
+      "awayTeam": "CE INEF LLEIDA S17",
+      "score": "28-5",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8733,
+      "homeTeam": "CR SANT CUGAT S17",
+      "awayTeam": "FÉNIX S17",
+      "score": "33-12",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8734,
+      "homeTeam": "VILABOIQERES S17",
+      "awayTeam": "CR SANT CUGAT S17",
+      "score": "7-42",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8735,
+      "homeTeam": "FÉNIX S17",
+      "awayTeam": "CE INEF LLEIDA S17",
+      "score": "33-19",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8736,
+      "homeTeam": "RC SITGES",
+      "awayTeam": "EQUIP AMISTÒS",
+      "score": "0-0",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8737,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "EQUIP AMISTÒS",
+      "score": "0-0",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8738,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "EQUIP AMISTÓS S16",
+      "score": "0-0",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8739,
+      "homeTeam": "CNPN",
+      "awayTeam": "CRUC",
+      "score": "8-15",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8740,
+      "homeTeam": "BUC",
+      "awayTeam": "EQUIP AMISTÓS S16",
+      "score": "0-0",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8742,
+      "homeTeam": "CAT CENTRAL",
+      "awayTeam": "CNPN",
+      "score": "0-0",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8743,
+      "homeTeam": "BUC/CORNELLÀ",
+      "awayTeam": "EQ. AMISTÒS",
+      "score": "0-0",
+      "date": "12-04-2026"
+    },
+    {
+      "id": 8744,
+      "homeTeam": "CR CARBONERS",
+      "awayTeam": "RC ALT EMPORDÀ",
+      "score": "0-0",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8745,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "GÒTICS RC",
+      "score": "12-68",
+      "date": "11-04-2026"
+    },
+    {
+      "id": 8746,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "43-17",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8747,
+      "homeTeam": "CR SANT CUGAT XV",
+      "awayTeam": "CR INEF BCN",
+      "score": "32-17",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8748,
+      "homeTeam": "RINYOLES RC",
+      "awayTeam": "CR CARBONERS",
+      "score": "34-38",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8749,
+      "homeTeam": "CR ALELLA",
+      "awayTeam": "RC ALT EMPORDÀ",
+      "score": "16-12",
+      "date": "19-04-2026"
+    },
+    {
+      "id": 8750,
+      "homeTeam": "CEU B",
+      "awayTeam": "SEL VILANOVA",
+      "score": "57-12",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8751,
+      "homeTeam": "CORNE/CRUC",
+      "awayTeam": "CNPN",
+      "score": "8-13",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8752,
+      "homeTeam": "CR TARRAGONA/SEL VNG",
+      "awayTeam": "COQUES/INEF BCN",
+      "score": "46-12",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8753,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "QUÍMIC ER/UES B",
+      "score": "31-33",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8754,
+      "homeTeam": "BUC B/SENGLARS",
+      "awayTeam": "VALKINYOLES",
+      "score": "5-35",
+      "date": "19-04-2026"
+    },
+    {
+      "id": 8755,
+      "homeTeam": "UES B",
+      "awayTeam": "CRUC",
+      "score": "36-0",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8756,
+      "homeTeam": "CR SANT CUGAT B",
+      "awayTeam": "RC CORNELLÀ",
+      "score": "26-21",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8757,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "UES B",
+      "score": "24-21",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8758,
+      "homeTeam": "BARÇA RUGBY",
+      "awayTeam": "RC CORNELLÀ",
+      "score": "43-0",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8759,
+      "homeTeam": "CEU",
+      "awayTeam": "URS/QBH",
+      "score": "24-14",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8760,
+      "homeTeam": "CR SANT CUGAT",
+      "awayTeam": "UES",
+      "score": "12-17",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8761,
+      "homeTeam": "SENGEIEG BLANC",
+      "awayTeam": "CAT CENTRAL",
+      "score": "41-36",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8762,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CAT CENTRAL",
+      "score": "0-21",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8763,
+      "homeTeam": "SENGEIEG BLANC",
+      "awayTeam": "QUÍMIC ER",
+      "score": "21-0",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8764,
+      "homeTeam": "QUEBRANTA/UNIZAR",
+      "awayTeam": "QUÍMIC ER",
+      "score": "34-17",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8765,
+      "homeTeam": "CNPN",
+      "awayTeam": "GÒTICS RC",
+      "score": "27-5",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8766,
+      "homeTeam": "HOSPITALET/VIRC/UR SUD",
+      "awayTeam": "BARÇA RUGBY",
+      "score": "0-0",
+      "date": "18-04-2026"
+    },
+    {
+      "id": 8767,
+      "homeTeam": "RC L'HOSPITALET",
+      "awayTeam": "EQUIP AMISTÓS S16",
+      "score": "0-0",
+      "date": "18-04-2026"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "dhcMatches": [
+    {
+      "id": 7012,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "GÒTICS RC",
+      "score": "19-26"
+    },
+    {
+      "id": 7014,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "33-24"
+    },
+    {
+      "id": 7068,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CEU",
+      "score": "22-0"
+    },
+    {
+      "id": 7105,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "QUÍMIC ER",
+      "score": "29-7"
+    },
+    {
+      "id": 7113,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CRUC",
+      "score": "33-55"
+    },
+    {
+      "id": 7129,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CRUC",
+      "score": "22-29"
+    },
+    {
+      "id": 7131,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CEU",
+      "score": "26-47"
+    },
+    {
+      "id": 7144,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "19-34"
+    },
+    {
+      "id": 7159,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "5-50"
+    },
+    {
+      "id": 7161,
+      "homeTeam": "CRUC",
+      "awayTeam": "CEU",
+      "score": "36-27"
+    },
+    {
+      "id": 7185,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "27-5"
+    },
+    {
+      "id": 7190,
+      "homeTeam": "CEU",
+      "awayTeam": "CRUC",
+      "score": "24-13"
+    },
+    {
+      "id": 7206,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "33-17"
+    },
+    {
+      "id": 7228,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CR TARRAGONA",
+      "score": "74-12"
+    },
+    {
+      "id": 7274,
+      "homeTeam": "CRUC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "21-17"
+    },
+    {
+      "id": 7282,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "17-36"
+    },
+    {
+      "id": 7311,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "GÒTICS RC",
+      "score": "31-15"
+    },
+    {
+      "id": 7320,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-38"
+    },
+    {
+      "id": 7322,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CR TARRAGONA",
+      "score": "37-14"
+    },
+    {
+      "id": 7349,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CEU",
+      "score": "31-15"
+    },
+    {
+      "id": 7351,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CRUC",
+      "score": "19-41"
+    },
+    {
+      "id": 7382,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "57-12"
+    },
+    {
+      "id": 7399,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "GÒTICS RC",
+      "score": "17-19"
+    },
+    {
+      "id": 7409,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "0-5"
+    },
+    {
+      "id": 7428,
+      "homeTeam": "CRUC",
+      "awayTeam": "QUÍMIC ER",
+      "score": "29-19"
+    },
+    {
+      "id": 7454,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "19-15"
+    },
+    {
+      "id": 7464,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "QUÍMIC ER",
+      "score": "31-17"
+    },
+    {
+      "id": 7500,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CRUC",
+      "score": "29-17"
+    },
+    {
+      "id": 7522,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "26-24"
+    },
+    {
+      "id": 7526,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "60-20"
+    },
+    {
+      "id": 7545,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "GÒTICS RC",
+      "score": "49-24"
+    },
+    {
+      "id": 7551,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "22-36"
+    },
+    {
+      "id": 7561,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "GÒTICS RC",
+      "score": "43-38"
+    },
+    {
+      "id": 7568,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "0-34"
+    },
+    {
+      "id": 7586,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-47"
+    },
+    {
+      "id": 7596,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CRUC",
+      "score": "14-24"
+    },
+    {
+      "id": 7613,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CRUC",
+      "score": "14-47"
+    },
+    {
+      "id": 7620,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "10-28"
+    },
+    {
+      "id": 7703,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "BUC B",
+      "score": "19-7"
+    },
+    {
+      "id": 7708,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "0-19"
+    },
+    {
+      "id": 7735,
+      "homeTeam": "CEU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "0-0"
+    },
+    {
+      "id": 7745,
+      "homeTeam": "CEU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "0-0"
+    },
+    {
+      "id": 7788,
+      "homeTeam": "CNPN B",
+      "awayTeam": "QUÍMIC ER",
+      "score": "3-23"
+    },
+    {
+      "id": 7789,
+      "homeTeam": "CEU",
+      "awayTeam": "CRUC",
+      "score": "28-21"
+    },
+    {
+      "id": 7790,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "33-13"
+    },
+    {
+      "id": 7791,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "BUC B",
+      "score": "48-10"
+    },
+    {
+      "id": 7839,
+      "homeTeam": "CRUC",
+      "awayTeam": "CEU",
+      "score": "71-0"
+    },
+    {
+      "id": 7863,
+      "homeTeam": "BUC B",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "27-22"
+    },
+    {
+      "id": 7864,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CR TARRAGONA",
+      "score": "27-52"
+    },
+    {
+      "id": 7865,
+      "homeTeam": "CRUC",
+      "awayTeam": "GÒTICS RC",
+      "score": "17-27"
+    },
+    {
+      "id": 7866,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CEU",
+      "score": "31-12"
+    },
+    {
+      "id": 7872,
+      "homeTeam": "CNPN B",
+      "awayTeam": "CEU",
+      "score": "13-22"
+    },
+    {
+      "id": 7873,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CRUC",
+      "score": "44-17"
+    },
+    {
+      "id": 7874,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "18-52"
+    },
+    {
+      "id": 7910,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CEU",
+      "score": "15-17"
+    },
+    {
+      "id": 7926,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-55"
+    },
+    {
+      "id": 7933,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "15-29"
+    },
+    {
+      "id": 7940,
+      "homeTeam": "CRUC",
+      "awayTeam": "GÒTICS RC",
+      "score": "31-24"
+    },
+    {
+      "id": 7965,
+      "homeTeam": "CEU",
+      "awayTeam": "GÒTICS RC",
+      "score": "10-15"
+    },
+    {
+      "id": 7966,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CR TARRAGONA",
+      "score": "9-8"
+    },
+    {
+      "id": 7967,
+      "homeTeam": "CRUC",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "26-18"
+    },
+    {
+      "id": 7968,
+      "homeTeam": "BUC B",
+      "awayTeam": "CNPN B",
+      "score": "0-22"
+    },
+    {
+      "id": 7977,
+      "homeTeam": "CRUC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "31-31"
+    },
+    {
+      "id": 7997,
+      "homeTeam": "CRUC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "24-10"
+    },
+    {
+      "id": 8022,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "19-46"
+    },
+    {
+      "id": 8023,
+      "homeTeam": "CNPN B",
+      "awayTeam": "GÒTICS RC",
+      "score": "10-33"
+    },
+    {
+      "id": 8024,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CEU",
+      "score": "14-16"
+    },
+    {
+      "id": 8025,
+      "homeTeam": "BUC B",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "3-52"
+    },
+    {
+      "id": 8077,
+      "homeTeam": "CEU",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "36-6"
+    },
+    {
+      "id": 8078,
+      "homeTeam": "CRUC",
+      "awayTeam": "BUC B",
+      "score": "53-10"
+    },
+    {
+      "id": 8079,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CR TARRAGONA",
+      "score": "29-7"
+    },
+    {
+      "id": 8080,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CNPN B",
+      "score": "43-5"
+    },
+    {
+      "id": 8081,
+      "homeTeam": "CNPN B",
+      "awayTeam": "CR TARRAGONA",
+      "score": "17-21"
+    },
+    {
+      "id": 8082,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "GÒTICS RC",
+      "score": "5-31"
+    },
+    {
+      "id": 8083,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CRUC",
+      "score": "43-10"
+    },
+    {
+      "id": 8099,
+      "homeTeam": "BUC B",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-82"
+    },
+    {
+      "id": 8108,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "51-17"
+    },
+    {
+      "id": 8116,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-59"
+    },
+    {
+      "id": 8144,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "QUÍMIC ER",
+      "score": "29-24"
+    },
+    {
+      "id": 8145,
+      "homeTeam": "CNPN B",
+      "awayTeam": "CRUC",
+      "score": "26-37"
+    },
+    {
+      "id": 8146,
+      "homeTeam": "CEU",
+      "awayTeam": "BUC B",
+      "score": "69-17"
+    },
+    {
+      "id": 8147,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "52-34"
+    },
+    {
+      "id": 8171,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "5-41"
+    },
+    {
+      "id": 8201,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "6-37"
+    },
+    {
+      "id": 8215,
+      "homeTeam": "BUC B",
+      "awayTeam": "GÒTICS RC",
+      "score": "3-80"
+    },
+    {
+      "id": 8216,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CEU",
+      "score": "58-14"
+    },
+    {
+      "id": 8217,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CNPN B",
+      "score": "34-8"
+    },
+    {
+      "id": 8240,
+      "homeTeam": "BUC B",
+      "awayTeam": "CR TARRAGONA",
+      "score": "20-45"
+    },
+    {
+      "id": 8241,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CNPN B",
+      "score": "46-24"
+    },
+    {
+      "id": 8242,
+      "homeTeam": "CRUC",
+      "awayTeam": "CEU",
+      "score": "22-20"
+    },
+    {
+      "id": 8270,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CRUC",
+      "score": "36-0"
+    },
+    {
+      "id": 8271,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "27-30"
+    },
+    {
+      "id": 8272,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "16-9"
+    },
+    {
+      "id": 8273,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "BUC B",
+      "score": "26-17"
+    },
+    {
+      "id": 8302,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "GÒTICS RC",
+      "score": "13-27"
+    },
+    {
+      "id": 8303,
+      "homeTeam": "CRUC",
+      "awayTeam": "CR TARRAGONA",
+      "score": "31-27"
+    },
+    {
+      "id": 8304,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "62-7"
+    },
+    {
+      "id": 8348,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CRUC",
+      "score": "22-0"
+    },
+    {
+      "id": 8370,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "GÒTICS RC",
+      "score": "8-14"
+    },
+    {
+      "id": 8373,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CRUC",
+      "score": "12-22"
+    },
+    {
+      "id": 8374,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "6-19"
+    },
+    {
+      "id": 8375,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CEU",
+      "score": "25-5"
+    },
+    {
+      "id": 8414,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CNPN B",
+      "score": "29-0"
+    },
+    {
+      "id": 8415,
+      "homeTeam": "CEU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "47-27"
+    },
+    {
+      "id": 8416,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "24-7"
+    },
+    {
+      "id": 8417,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "BUC B",
+      "score": "55-7"
+    },
+    {
+      "id": 8461,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CEU",
+      "score": "27-32"
+    },
+    {
+      "id": 8462,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "21-0"
+    },
+    {
+      "id": 8463,
+      "homeTeam": "CNPN B",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "21-43"
+    },
+    {
+      "id": 8464,
+      "homeTeam": "BUC B",
+      "awayTeam": "CRUC",
+      "score": "24-23"
+    },
+    {
+      "id": 8465,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CEU",
+      "score": "12-66"
+    },
+    {
+      "id": 8466,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "GÒTICS RC",
+      "score": "24-21"
+    },
+    {
+      "id": 8485,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "CRUC",
+      "score": "7-17"
+    },
+    {
+      "id": 8503,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "56-14"
+    },
+    {
+      "id": 8515,
+      "homeTeam": "CEU",
+      "awayTeam": "CNPN B",
+      "score": "45-0"
+    },
+    {
+      "id": 8516,
+      "homeTeam": "CRUC",
+      "awayTeam": "QUÍMIC ER",
+      "score": "9-25"
+    },
+    {
+      "id": 8541,
+      "homeTeam": "CR TARRAGONA",
+      "awayTeam": "CNPN B",
+      "score": "71-7"
+    },
+    {
+      "id": 8542,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "62-7"
+    },
+    {
+      "id": 8543,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "BUC B",
+      "score": "47-0"
+    },
+    {
+      "id": 8544,
+      "homeTeam": "CRUC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "19-33"
+    },
+    {
+      "id": 8583,
+      "homeTeam": "CRUC",
+      "awayTeam": "CNPN B",
+      "score": "28-10"
+    },
+    {
+      "id": 8584,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "38-23"
+    },
+    {
+      "id": 8585,
+      "homeTeam": "BUC B",
+      "awayTeam": "CEU",
+      "score": "3-24"
+    },
+    {
+      "id": 8586,
+      "homeTeam": "BARÇA RUGBY BLAU",
+      "awayTeam": "CR TARRAGONA",
+      "score": "24-67"
+    },
+    {
+      "id": 8632,
+      "homeTeam": "CNPN B",
+      "awayTeam": "BARÇA RUGBY BLAU",
+      "score": "17-54"
+    },
+    {
+      "id": 8633,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "BUC B",
+      "score": "50-6"
+    },
+    {
+      "id": 8634,
+      "homeTeam": "CEU",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "27-32"
+    },
+    {
+      "id": 8635,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CRUC",
+      "score": "39-17"
+    },
+    {
+      "id": 8659,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "0-51"
+    },
+    {
+      "id": 8683,
+      "homeTeam": "CNPN B",
+      "awayTeam": "BUC B",
+      "score": "16-5"
+    },
+    {
+      "id": 8704,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CEU",
+      "score": "29-7"
+    },
+    {
+      "id": 8705,
+      "homeTeam": "CE INEF LLEIDA",
+      "awayTeam": "QUÍMIC ER",
+      "score": "22-21"
+    },
+    {
+      "id": 8718,
+      "homeTeam": "CRUC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "22-11"
+    },
+    {
+      "id": 8746,
+      "homeTeam": "GÒTICS RC",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "43-17"
+    },
+    {
+      "id": 8787,
+      "homeTeam": "CEU",
+      "awayTeam": "QUÍMIC ER",
+      "score": "21-0"
+    },
+    {
+      "id": 8800,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-21"
+    },
+    {
+      "id": 8815,
+      "homeTeam": "QUÍMIC ER",
+      "awayTeam": "CE INEF LLEIDA",
+      "score": "0-28"
+    },
+    {
+      "id": 8817,
+      "homeTeam": "CRUC",
+      "awayTeam": "GÒTICS RC",
+      "score": "0-21"
+    }
+  ]
+}

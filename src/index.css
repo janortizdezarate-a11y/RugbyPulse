@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rugby-garnet: #8B1D3D;
+  --color-rugby-gold: #C5A059;
+  --color-rugby-navy: #1A2A44;
+  --color-rugby-light: #F5F7FA;
+  
+  --font-sans: "Inter", "system-ui", "sans-serif";
+  --font-display: "Outfit", "sans-serif";
+
+  --radius-2xl: 1rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap');
+
+@layer base {
+  body {
+    background-color: var(--color-rugby-navy);
+    color: white;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+  }
+}
+
+@layer components {
+  .glass-card {
+    background-color: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--radius-2xl);
+  }
+  
+  .glass-button {
+    background-color: var(--color-rugby-garnet);
+    transition: all 0.3s;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    box-shadow: 0 4px 6px -1px rgba(139, 29, 61, 0.2);
+  }
+  .glass-button:hover {
+    background-color: rgba(139, 29, 61, 0.8);
+  }
+
+  .stat-badge {
+    padding: 0.25rem 0.5rem;
+    background-color: rgba(197, 160, 89, 0.2);
+    color: var(--color-rugby-gold);
+    font-size: 0.75rem;
+    font-weight: 700;
+    border-radius: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--color-rugby-navy);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Fluid Text Effect for titles */
+.liquid-text {
+  background: linear-gradient(to right, var(--color-rugby-gold), #fff, var(--color-rugby-gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% auto;
+  animation: shine 3s linear infinite;
+}
+
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
+}
